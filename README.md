@@ -1,18 +1,30 @@
-## Getting Started
+## Java Exercise 01
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+An exercise for those learning to program in Java.
 
-## Folder Structure
+## Preparation
 
-The workspace contains two folders by default, where:
+Before working on this exercise, create your own branch of the `JavaExercise01`
+repository, naming the branch **solution*YourName***. For example,
+**solutionJohnK**. Then immediately push your branch up to GitHub.
+Perform all work on your branch, frequently committing your changes
+and pushing then to GitHub.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+You can use a WPILib installation of Visual Studio Code to work
+on your solution. Or, you can install the Visual Studio Code
+Java Coding Pack using the installer found
+[here](https://code.visualstudio.com/learn/educators/installers).
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## The Problem
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+In this exercise, replace the stub implementation of the `createSpiral(int, int)`
+method with a full implementation as described in the method's doc comment.
+Feel free to create additional classes that may help with your solution.
 
-## Dependency Management
+Use the provided `main(String[])` method to test your implementation.
+In Visual Studio Code, a line containing `Run|Debug` should appear just
+above the declaration of the `main` method. Click on `Run` to compile
+and run your code.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+When you have completed your solution, notify Mr. Koehring, being sure to
+tell him the name of your branch.

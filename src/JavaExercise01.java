@@ -1,7 +1,6 @@
-import java.util.Arrays;
 
 /**
- * An exercise for those learning to program in java.base/
+ * An exercise for those learning to program in Java.
  * <p>
  * Before working on this exercise, create your own branch of the JavaExercise01
  * repository, naming the branch <b>solution<i>YourName</i></b>. For example,
